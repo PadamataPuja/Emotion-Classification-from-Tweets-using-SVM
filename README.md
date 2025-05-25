@@ -14,6 +14,6 @@ Ensure your dataset CSV file (e.g., `emotions.csv`) is in the project directory 
 
 Run the main script:
 ```bash
-python main.py
+python "emotion_classification_using_svm.py"
 Results
-Example accuracy: ~79.7%
+Example accuracy: 83%
