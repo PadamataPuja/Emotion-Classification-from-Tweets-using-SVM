@@ -16,4 +16,4 @@ Run the main script:
 ```bash
 python "emotion_classification_using_svm.py"
 Results
-Example accuracy: 83%
+Example accuracy: 79%
